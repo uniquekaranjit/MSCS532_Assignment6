@@ -39,6 +39,16 @@ The repository is divided into two main directories:
 
 ---
 
+## Getting Started
+
+To get started with the project, follow the instructions below to set up your environment and run the Python scripts.
+
+### 1. Install dependencies:
+The project requires several Python libraries that are listed in `requirements.txt`. You can install them using `pip`. Run the following command to install the dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Running the Code
 
 To test the implementations:
